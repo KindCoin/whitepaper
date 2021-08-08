@@ -1,6 +1,6 @@
 www.kindcoin.online
 
-
+You also can get PDF version on [Russian](https://github.com/KindCoin/whitepaper/blob/main/pdf/whitepaper_ru.pdf) and [English](https://github.com/KindCoin/whitepaper/blob/main/pdf/whitepaper_en.pdf) languages
 
 # KindCoin WhitePaper
 
